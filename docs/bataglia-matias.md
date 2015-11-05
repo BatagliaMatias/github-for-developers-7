@@ -1,5 +1,7 @@
 ###Bio Information
 
-i like heavy metal
+**music:** heavy metal
 
-favorite color: red
+**favorite color:** red
+
+**country:** Argentina
